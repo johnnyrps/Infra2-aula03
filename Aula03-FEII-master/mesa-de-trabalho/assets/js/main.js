@@ -25,3 +25,5 @@ adicionandoX.innerText="X";
 document.getElementById("linha-2_coluna-1").innerText = "O";
 
 document.getElementById("linha-3_coluna-1").innerText = "X";
+
+alert("Deu Velha!!!")
